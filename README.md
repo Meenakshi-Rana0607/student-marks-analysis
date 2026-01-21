@@ -14,7 +14,7 @@ It also visualizes results using graphs.
 ---
 
 ## 📁 Project Structure
-
+```bash
 student-marks-analysis/
 ├── data/
 │ └── student_marks_analysis.csv
@@ -25,7 +25,7 @@ student-marks-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
@@ -61,8 +61,11 @@ student-marks-analysis/
 
 ```bash
 pip install -r requirements.txt
+```
+```bash
 python src/student_marks_analysis.py
-🎓 Learning Outcomes
+```
+# 🎓 Learning Outcomes
 Data analysis using NumPy
 
 Handling missing values
@@ -71,5 +74,5 @@ Data visualization using Matplotlib & Seaborn
 
 Git & GitHub project structure
 
-👩‍💻 Author
+# 👩‍💻 Author
 Meenakshi Rani
